@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2d540ec81bf02b4aafebbfb91ca45e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21025
+  packageName: Close Quarters Assault Rifle
+  packageVersion: 1.0
+  assetPath: Assets/Close Quarters Assault Rifle/Materials/Bullet_BumpSpec.mat
+  uploadId: 10247
